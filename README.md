@@ -10,3 +10,7 @@ necessário utilizar o comando "sudo insmod client.ko" para iniciar o funcioname
 - Já com o módulo funcionando, na aba do servidor, para cada tecla que for pressionada, o programa irá imprimir o caracter, assim como no terminal de mensagens dos módulos. O programa irá interromper a execução quando 1000 caracteres forem pressionados.
 - Caso queira, para interromper a execução do módulo, é só inserir o comando "sudo insmod client.ko".
 
+  GRUPO:  Arthur Breno
+          Felipe Cecato
+          Gabriel Cardoso
+
